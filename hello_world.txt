@@ -1,0 +1,4 @@
+Hello Odin!
+Good evening earthly beings.This is the codelord speaking.
+I am going to learn HTML,CSS & Javascript with you.
+let's pay attention.
